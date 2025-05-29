@@ -1,0 +1,8 @@
+cd ..
+ls
+sleep 2
+echo Finished!
+echo BARTU
+echo Koksal
+echo RAM
+echo BARTU
